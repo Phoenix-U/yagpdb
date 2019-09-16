@@ -72,4 +72,12 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
+        "пидор":       true,
+        "еблан":       true,
+        "сука":        true,
+        "пизда":       true,
+        "пиздабол":    true,
+        "хуй":         true,
+        "хуйло":       true,
+        "шлюха":       true,
 }
